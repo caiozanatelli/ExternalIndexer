@@ -1,4 +1,4 @@
-TARGET = bin/index
+TARGET = bin/ExternalIndexer
 LIBS = -lm
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror -std=c99 -pedantic -g 
